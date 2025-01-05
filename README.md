@@ -1,6 +1,7 @@
 # LIVFIT
 
-![프로젝트 로고](./src/main/resources/img/logo.png)
+![프로젝트 로고](./src/main/resources/img/logo.png)<br>
+[서경대학교_HOTSPOT팀_LIVFIT.pdf](https://github.com/user-attachments/files/18310467/_HOTSPOT._LIVFIT.pdf)
 
 
 ## 🤝 LITFIT
